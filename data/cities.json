@@ -1,0 +1,124 @@
+{
+  "cities": [
+    {
+      "cityName": "Munster",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-09-16T15:24:46.130Z",
+      "notes": "",
+      "position": {
+        "lat": "48.03223158026534",
+        "lng": "7.156424479091235"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Zugdidi",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2023-09-16T15:25:06.917Z",
+      "notes": "",
+      "position": {
+        "lat": "42.45892458845341",
+        "lng": "41.913535866724125"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Tbilisi",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2023-09-16T15:25:20.434Z",
+      "notes": "",
+      "position": {
+        "lat": "41.686004423956696",
+        "lng": "44.83260884961119"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Oni",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2023-09-16T15:25:35.113Z",
+      "notes": "",
+      "position": {
+        "lat": "42.56012984589539",
+        "lng": "43.546049826889806"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-09-16T15:27:39.882Z",
+      "notes": "",
+      "position": {
+        "lat": "48.85188185292357",
+        "lng": "2.376038842117261"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Strasbourg",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-09-16T15:28:16.417Z",
+      "notes": "",
+      "position": {
+        "lat": "48.579868350538085",
+        "lng": "7.759585008453272"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Mulhouse",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-09-16T15:28:33.195Z",
+      "notes": "",
+      "position": {
+        "lat": "47.73325594902994",
+        "lng": "7.350113834243222"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Colmar",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-09-16T15:28:41.497Z",
+      "notes": "",
+      "position": {
+        "lat": "48.06861600625453",
+        "lng": "7.377674686124298"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Turckheim",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-09-16T15:28:57.773Z",
+      "notes": "",
+      "position": {
+        "lat": "48.08678616916666",
+        "lng": "7.277775645145544"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Kehl",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-09-16T15:30:13.166Z",
+      "notes": "",
+      "position": {
+        "lat": "48.56776766273816",
+        "lng": "7.812662727419602"
+      },
+      "id": 98443207
+    }
+  ]
+}
